@@ -10,7 +10,7 @@
   REACT_APP_GITHUB_CLIENT_ID={YOUR_GITHUB_CLIENT_ID}
   REACT_APP_GITHUB_CLIENT_SECRET={YOUR_GITHUB_CLIENT_SECRET}
 
-## Run the project
+## Run the Project
 - At the terminal run 'npm start' or 'yarn start'
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
