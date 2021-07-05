@@ -1,8 +1,14 @@
 # How to use
-- Please follow the below mentioned steps;
+- Please follow the below steps to use the app;
 
 ## Clone and Initialize the Project
 - At project root open the terminal/cmd and run 'npm init' or 'yarn init' to initialize and download the necessary packages.
+
+## Configure Environment Variables
+- Create .env.local file at the project root and set environment variables as follows;
+
+  REACT_APP_GITHUB_CLIENT_ID={YOUR_GITHUB_CLIENT_ID}
+  REACT_APP_GITHUB_CLIENT_SECRET={YOUR_GITHUB_CLIENT_SECRET}
 
 ## Run the project
 - At the terminal run 'npm start' or 'yarn start'
