@@ -2,7 +2,7 @@
 - Please follow the below steps to use the app;
 
 ## Clone and Initialize the Project
-- At project root open the terminal/cmd and run 'npm init' or 'yarn init' to initialize and download the necessary packages.
+- At project root open the terminal/cmd and run 'npm install' or 'yarn' to initialize and download the necessary packages.
 
 ## Configure Environment Variables
 - Create .env.local file at the project root and set environment variables as follows;
